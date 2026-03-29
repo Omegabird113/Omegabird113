@@ -1,5 +1,5 @@
 ## Omegabird113
-I'm a casual developer of primarily Java Projects right now interested in Minecraft Modding and various personal utilities. I've used MCreator since late 2020, including making LlamaBlocks with it since July 2022 (it's a large variety feature mod). So far I've made a whole 2 PRs to MCreator, but I am still proud of them and likely will do more.
+I'm a casual developer of primarily Java Projects right now interested in Minecraft Modding and various personal utilities. I've used MCreator since late 2020, including making LlamaBlocks with it since July 2022 (it's a large variety feature mod). So far I've made a few PRs to MCreator to fix some issues I've been having & make general improvements.
 
 ### What languages do I know?
 1. Java (Latest, preferred)
